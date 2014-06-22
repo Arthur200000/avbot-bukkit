@@ -12,3 +12,8 @@ TODOs
 	}
   ```
 - [ ] Towards zero errors without pircbotx.
+
+Channel.java
+---
+- [ ] Cut things not useful for us.
+
